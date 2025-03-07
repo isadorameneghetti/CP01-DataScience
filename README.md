@@ -139,4 +139,4 @@ Para executar este projeto, siga os passos abaixo:
 
 # Licença
 
-The MIT License (MIT) 2023 - Seu Nome. Leia o arquivo [LICENSE.md](https://github.com/seu-usuario/seu-repositorio/blob/master/LICENSE.md) para mais detalhes.
+The MIT License (MIT) 2023 - Phase-X.
