@@ -139,4 +139,4 @@ Para executar este projeto, siga os passos abaixo:
 
 # Licença
 
-The MIT License (MIT) 2023 - Phase-X.
+The MIT License (MIT) 2025 - Phase-X.
